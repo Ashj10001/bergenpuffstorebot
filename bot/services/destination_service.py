@@ -25,7 +25,7 @@ DEFAULT_DESTINATIONS = [
         "name": "Bergenpuff Store Community Group",
         "description": "Connect and interact with the Bergenpuff Store community.",
         "destination_type": "group",
-        "telegram_url": "https://t.me/+3cs1A8bpS8AwOWQ0",
+        "telegram_url": "https://t.me/+Taz4rjWOCVs2ZGI0",
         "emoji": "💬",
         "button_label": "Community Group",
         "deep_link": "group",
